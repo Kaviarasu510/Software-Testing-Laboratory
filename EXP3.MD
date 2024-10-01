@@ -39,6 +39,36 @@ else:
      print("Enter a Positive Number")
 ```
 ### Output:
+Enter a value: 10 
+Not a prime Number 
+Test Case: Pass 
+Enter a value: 2 
+Prime Number 
+Test Case: Pass 
+PRIME NUMBER OR NOT 
+Exp.No:03 
+Date:26/02/2024 
+Enter a value: string 
+Enter a Positive Number 
+Test Case: Fail 
+Enter a value: -5 
+Enter a Positive Number 
+Test Case: Fail 
+Enter a value: 
+Enter a Positive Number 
+Test Case: Fail 
+Enter a value: A 
+Enter a Positive Number 
+Test Case: Fail 
+Enter a value: !@# 
+Enter a Positive Number 
+Test Case: Fail 
+Enter a value: 5 
+Prime Number 
+Test Case: Pass 
+Enter a value: 22/7 
+Enter a Positive Number 
+Test Case: Fail
 
 
 
