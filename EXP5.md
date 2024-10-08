@@ -1,5 +1,5 @@
 ### AIM: 
-Write a python program to check the number is Armstrong number or not and inspect for failures.
+Write a python program for Binary Search and inspect for failures.
 
 ### Algorithm:
 
@@ -43,9 +43,7 @@ except ValueError:
 
 ### Output:
 
-![Armstrong Number (1)](https://github.com/user-attachments/assets/7b992fd3-7fe0-4c63-9b81-21a1a97ab010)
-
+![Binary Search](https://github.com/user-attachments/assets/dd954bb4-9ec6-409c-9c45-a6197692d0e3)
 
 ### Result:
-Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
-
+Thus, the python program of binary search is implemented and the output is verified successfully.
