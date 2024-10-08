@@ -52,6 +52,7 @@ The hardware, software and technology used should have following specifications:
 ### Design/implementation constraints: 
 Login: 
 Validate Bank Card 
+
     1.Validate for Card Expiration Date 
     2.Validate that the card's expiration date is later than today's date 
     3.If card is expired, prompt error message "Card is expired" 
@@ -63,32 +64,35 @@ Validate for Stolen or Lost Card
     3.If card is stolen, prompt error message, "Card has been reported stolen" 
 
 Validate for Disabled Card 
-  1.Validate that the card is not disabled 
-  2.If card is disabled, prompt error message, "Card has been disabled as of <expiration date>" 
-  3.Validate for Locked Account Validate that the account is not locked 
-  4.If account is locked, prompt error message "Account is locked" 
+
+    1.Validate that the card is not disabled 
+    2.If card is disabled, prompt error message, "Card has been disabled as of <expiration date>" 
+    3.Validate for Locked Account Validate that the account is not locked 
+    4.If account is locked, prompt error message "Account is locked" 
 
 Validate PIN 
-  1.Validate that the password is not blank 
-  2.If PIN is blank, prompt error message "Please provide PIN" 
-  3.Validate that the password entered matches the password on file 
-  4.If password does not match, prompt error message "Password is Incorrect" 
+    
+    1.Validate that the password is not blank 
+    2.If PIN is blank, prompt error message "Please provide PIN" 
+    3.Validate that the password entered matches the password on file 
+    4.If password does not match, prompt error message "Password is Incorrect" 
 
 Lock Account 
-  1.If number of consecutive unsuccessful logins exceeds three attempts, lock account. 
-  2.Maintain Consecutive Unsuccessful Login Counter 
-  3.Increment Login Counter For every consecutive Login attempt, increment logic counter by 1. 
-  4.Reset login counter to 0 after login is successful. 
-  5.Get Balance Information 
-  5.Withdraw Cash 
-  6.Transfer Funds
+
+    1.If number of consecutive unsuccessful logins exceeds three attempts, lock account. 
+    2.Maintain Consecutive Unsuccessful Login Counter 
+    3.Increment Login Counter For every consecutive Login attempt, increment logic counter by 1. 
+    4.Reset login counter to 0 after login is successful. 
+    5.Get Balance Information 
+    6.Withdraw Cash 
+    7.Transfer Funds
 
 ### Assumptions and Dependencies: 
 
-  1.Hardware never fails 
-  2.ATM casing is impenetrable 
-  3.Limited number of transactions per day (sufficient paper for receipts) 
-  4.Limited amount of money withdrawn per day (sufficient money) 
+    1.Hardware never fails 
+    2.ATM casing is impenetrable 
+    3.Limited number of transactions per day (sufficient paper for receipts) 
+    4.Limited amount of money withdrawn per day (sufficient money) 
 
 ### External Interface Requirements:
 
