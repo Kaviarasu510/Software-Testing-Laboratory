@@ -33,35 +33,34 @@ The actors of the system are:
 ### Product Functions:
   Using an ATM, customers can access their bank accounts in order to make cash withdrawals (or credit card cash advances) and check their account balances. The functions of the system are: 
 
-  1. Login 
-  2. Get Balance Information 
-  3. Withdraw Cash 
-  4. Transfer Funds
+    1. Login 
+    2. Get Balance Information 
+    3. Withdraw Cash 
+    4. Transfer Funds
 
 ### Operative Environments:
 The hardware, software and technology used should have following specifications:
 
-  1.Ability to read the ATM card. 
-  2.Ability to count the currency notes. 
-  3.Touch screen for convenience. 
-  4.Keypad(in case touchpad fails) 
-  5.Continuous power supply. 
-  6.Ability to connect to bank’s network. 
-  7.Ability to validate user.
+    1.Ability to read the ATM card. 
+    2.Ability to count the currency notes. 
+    3.Touch screen for convenience. 
+    4.Keypad(in case touchpad fails) 
+    5.Continuous power supply. 
+    6.Ability to connect to bank’s network. 
+    7.Ability to validate user.
 
 ### Design/implementation constraints: 
 Login: 
 Validate Bank Card 
-
-  1.Validate for Card Expiration Date 
-  2.Validate that the card's expiration date is later than today's date 
-  3.If card is expired, prompt error message "Card is expired" 
+    1.Validate for Card Expiration Date 
+    2.Validate that the card's expiration date is later than today's date 
+    3.If card is expired, prompt error message "Card is expired" 
 
 Validate for Stolen or Lost Card 
 
-  1.Validate that the card is not reported lost or stolen 
-  2.If card is lost, prompt error message, "Card has been reported lost" 
-  3.If card is stolen, prompt error message, "Card has been reported stolen" 
+    1.Validate that the card is not reported lost or stolen 
+    2.If card is lost, prompt error message, "Card has been reported lost" 
+    3.If card is stolen, prompt error message, "Card has been reported stolen" 
 
 Validate for Disabled Card 
   1.Validate that the card is not disabled 
@@ -109,8 +108,9 @@ The hardware should have following specifications:
 
 ### Software interfaces 
 The software interfaces are specific to the target banking software systems. At present, two known banking systems will participate in the ATM network. 
-  1.State Bank 
-  2.Indian Overseas Bank 
+  
+    1.State Bank 
+    2.Indian Overseas Bank 
 
 ### Safety requirements: 
 Must be safe kept in physical aspects, say in a cabin 
