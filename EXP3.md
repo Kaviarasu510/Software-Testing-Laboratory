@@ -39,43 +39,8 @@ else:
      print("Enter a Positive Number")
 ```
 ### Output:
-```
-Enter a value: 10 
-Not a prime Number 
-Test Case: Pass 
 
-Enter a value: 2 
-Prime Number 
-Test Case: Pass 
-
-Enter a value: string 
-Enter a Positive Number 
-Test Case: Fail 
-
-Enter a value: -5 
-Enter a Positive Number 
-Test Case: Fail 
-
-Enter a value: 
-Enter a Positive Number 
-Test Case: Fail 
-
-Enter a value: A 
-Enter a Positive Number 
-Test Case: Fail 
-
-Enter a value: !@# 
-Enter a Positive Number 
-Test Case: Fail 
-
-Enter a value: 5 
-Prime Number 
-Test Case: Pass 
-
-Enter a value: 22/7 
-Enter a Positive Number 
-Test Case: Fail
-```
+![Prime number or Not](https://github.com/user-attachments/assets/a755f4f6-b0e7-4f84-a6b8-5fc9d6296ff1)
 
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
