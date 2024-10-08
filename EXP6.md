@@ -63,6 +63,7 @@ Input: &%&
 Output: Enter a valid string 
 Test case: Fail
 ```
+![palindrome](https://github.com/user-attachments/assets/63aa09bc-fd10-4d3a-a26a-558c8af5ddc1)
 
 ## Result:
 Thus, a program to check palindrome has been written and test cases have been written and verified successfully.
