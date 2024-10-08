@@ -39,7 +39,6 @@ The actors of the system are:
   4. Transfer Funds
 
 ### Operative Environments:
-  
 The hardware, software and technology used should have following specifications:
 
   1.Ability to read the ATM card. 
@@ -51,7 +50,6 @@ The hardware, software and technology used should have following specifications:
   7.Ability to validate user.
 
 ### Design/implementation constraints: 
-
 Login: 
 Validate Bank Card 
 
