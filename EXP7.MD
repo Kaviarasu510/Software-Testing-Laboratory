@@ -112,9 +112,8 @@ The hardware should have following specifications:
 
 ### Software interfaces 
 The software interfaces are specific to the target banking software systems. At present, two known banking systems will participate in the ATM network. 
-  
-    1.State Bank 
-    2.Indian Overseas Bank 
+  1.State Bank 
+  2.Indian Overseas Bank 
 
 ### Safety requirements: 
 Must be safe kept in physical aspects, say in a cabin 
