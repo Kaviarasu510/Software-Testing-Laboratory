@@ -38,34 +38,31 @@ else:
 ### Output:
 
 ```
-### Alphanumeric values: 
+Alphanumeric values: 
 Input: S010S 
 Output: Enter a valid string 
 Test case: Fail 
 
-### Numeric values: 
+Numeric values: 
 Input: 12321 
 Output: Enter a valid string 
 Test case : Fail 
 
-### Alphabet values: 
+Alphabet values: 
 Input: madam 
 Output: It is a palindrome 
 Test case : Pass 
 
-### Non-palindrome string 
+Non-palindrome string 
 Input: abcd 
 Output: It is not a palindrome 
 Test case: Pass 
 
-### Symbols 
+Symbols 
 Input: &%& 
 Output: Enter a valid string 
 Test case: Fail
 ```
-
-
-
 
 ## Result:
 Thus, a program to check palindrome has been written and test cases have been written and verified successfully.
