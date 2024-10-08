@@ -36,48 +36,7 @@ else:
 
 ### Output:
 
-```
-Enter the Input: 143 
-Armstrong Number 
-Test Case: Pass 
-
-Enter the Input: 25 
-Not Armstrong Number 
-Test Case: Pass 
-
-Enter the Input: 
-Enter a Positive Integer. 
-Test Case: Fail 
-
-Enter the Input: String 
-Enter a Positive Integer. 
-Test Case: Fail 
-
-Enter the Input: A 
-Enter a Positive Integer. 
-Test Case: Fail 
-
-Enter the Input: !@# 
-Enter a Positive Integer. 
-Test Case: Fail 
-
-Enter the Input: -10 
-Enter a Positive Integer. 
-Test Case: Fail 
-
-Enter the Input: 0 
-Not Armstrong Number 
-Test Case: Pass 
-
-Enter the Input: 22/7 
-Enter a Positive Integer. 
-Test Case: Fail 
-
-Enter the Input: 1 
-Armstrong Number 
-Test Case: Pass 
-
-```
+![Armstrong Number](https://github.com/user-attachments/assets/1daca734-aaf0-4a15-bda1-afc018d57a45)
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
