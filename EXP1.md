@@ -99,145 +99,30 @@ iterate()
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### Output:
 
 ### i.)do…while: 
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
 
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-Character and string input
-Enter a positive value for START: hello
-Enter a positive value for END: y
-Enter a valid positive number. 
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-```
-
+![do while](https://github.com/user-attachments/assets/2e42a1bb-cba9-4ee6-867f-e9ecc1c12b45)
 
 ### ii.) while…do 
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
 
-
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-
-Character and string input
-Enter a positive value for START: abc
-Enter a positive value for END: 100
-Enter a valid positive number. 
-
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-
-
-```
-
+![do while](https://github.com/user-attachments/assets/35b5e234-f3cf-4073-8a38-9155638a1e3c)
 
 ### iii.) switch 
-```
-Positive numbers
-Enter a value for N: 1
-odd
 
-Negative numbers
-Enter a value for N: -10
-even
-
-
-Character and string input
-Enter a value for N: hello
-Enter a valid number.
-
-
-Null input
-Enter a value for N:
-Enter a valid number. 
-
-```
+![switch](https://github.com/user-attachments/assets/b60fe3fd-6839-4e83-ab50-d472be6188c9)
 
 ### iv.) if else
-```
 
-Positive numbers
-Enter a value for A: 1
-Enter a value for B: 1
-A is equal to B.
-
-
-Negative numbers
-Enter a value for A: -10
-Enter a value for B: 5 B
-is greater than A.
-
-
-Character and string input
-Enter a value for A: hello
-Enter a value for B: y
-Enter a valid number.
-
-
-Null input
-Enter a value for A:
-Enter a value for B:
-Enter a valid number. 
-```
-
+![if else](https://github.com/user-attachments/assets/25b35f83-b728-484f-8c74-df392115b67a)
 
 ### v.) for 
-```
-Characters
-Enter a string: say
-115 97 121
 
-Number
-Enter a string: 1543
-49 53 52 51
-
-Null input
-Enter a string: 
-```
-
-
-
-
-
-
-
+![for loop](https://github.com/user-attachments/assets/d7e05552-baac-4954-ba91-df8bffd67826)
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
+
 
 
