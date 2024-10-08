@@ -32,6 +32,7 @@ The actors of the system are:
 
 ### Product Functions:
   Using an ATM, customers can access their bank accounts in order to make cash withdrawals (or credit card cash advances) and check their account balances. The functions of the system are: 
+
   1. Login 
   2. Get Balance Information 
   3. Withdraw Cash 
@@ -39,7 +40,8 @@ The actors of the system are:
 
 ### Operative Environments:
   
-The hardware, software and technology used should have following specifications: 
+The hardware, software and technology used should have following specifications:
+
   1.Ability to read the ATM card. 
   2.Ability to count the currency notes. 
   3.Touch screen for convenience. 
@@ -52,11 +54,13 @@ The hardware, software and technology used should have following specifications:
 
 Login: 
 Validate Bank Card 
+
   1.Validate for Card Expiration Date 
   2.Validate that the card's expiration date is later than today's date 
   3.If card is expired, prompt error message "Card is expired" 
 
 Validate for Stolen or Lost Card 
+
   1.Validate that the card is not reported lost or stolen 
   2.If card is lost, prompt error message, "Card has been reported lost" 
   3.If card is stolen, prompt error message, "Card has been reported stolen" 
